@@ -1,7 +1,7 @@
-# Minkafab-S
+# Minkafab S PRO
 ## Impresora 3D Minkafab
 Características:
-* Volúmen de impresión: 210x200x250mm
-* Controlador: Ramps 1.4 - Arduino MEGA2560
-* Drivers: TMC2209 Standalone mode
-* Software: Marlin 2.0
+* Volúmen de impresión: 210x205x220mm
+* Controlador: SKR MINI E3 DIP 32bits
+* Drivers: TMC2209 sensorless homming
+* Software: Marlin 2.0.7
