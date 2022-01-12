@@ -1,5 +1,5 @@
 {
-    "name": "Biqu Base Printer",
+    "name": "Minka S PRO Printer",
     "version": 2,
     "inherits": "fdmprinter",
     "metadata": {
